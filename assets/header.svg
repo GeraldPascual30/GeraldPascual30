@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="270" viewBox="0 0 1120 270" role="img" aria-labelledby="title desc">
+<title id="title">Gerald Pascual - Desarrollador de Software Junior</title>
+<desc id="desc">C#, ASP.NET Core y SQL Server. Estudiante del ITLA.</desc>
+<rect width="1120" height="270" rx="20" fill="#102b38"/>
+<path d="M870 0v270M950 0v270M1030 0v270M800 70h320M800 150h320M800 230h320" stroke="#234552" stroke-width="1"/>
+<rect x="42" y="42" width="54" height="5" rx="2" fill="#65ddc2"/>
+<text x="42" y="110" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="48" font-weight="700">Gerald Pascual</text>
+<text x="44" y="153" fill="#d3e3e9" font-family="DejaVu Sans,sans-serif" font-size="23">Desarrollador de Software Junior</text>
+<text x="44" y="211" fill="#65ddc2" font-family="DejaVu Sans,sans-serif" font-size="21">C#  ·  ASP.NET Core  ·  SQL Server</text>
+<text x="926" y="147" fill="#65ddc2" font-family="DejaVu Sans Mono,monospace" font-size="72">&lt;/&gt;</text>
+</svg>
