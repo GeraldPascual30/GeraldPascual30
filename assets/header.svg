@@ -1,11 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="270" viewBox="0 0 1120 270" role="img" aria-labelledby="title desc">
-<title id="title">Gerald Pascual - Desarrollador de Software Junior</title>
-<desc id="desc">C#, ASP.NET Core y SQL Server. Estudiante del ITLA.</desc>
-<rect width="1120" height="270" rx="20" fill="#102b38"/>
-<path d="M870 0v270M950 0v270M1030 0v270M800 70h320M800 150h320M800 230h320" stroke="#234552" stroke-width="1"/>
-<rect x="42" y="42" width="54" height="5" rx="2" fill="#65ddc2"/>
-<text x="42" y="110" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="48" font-weight="700">Gerald Pascual</text>
-<text x="44" y="153" fill="#d3e3e9" font-family="DejaVu Sans,sans-serif" font-size="23">Desarrollador de Software Junior</text>
-<text x="44" y="211" fill="#65ddc2" font-family="DejaVu Sans,sans-serif" font-size="21">C#  ·  ASP.NET Core  ·  SQL Server</text>
-<text x="926" y="147" fill="#65ddc2" font-family="DejaVu Sans Mono,monospace" font-size="72">&lt;/&gt;</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title description">
+<title id="title">Gerald Pascual — Desarrollador de Software Junior</title>
+<desc id="description">Estudiante del ITLA, República Dominicana. C#, ASP.NET Core y SQL Server.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061B2B"/><stop offset="1" stop-color="#0D3345"/></linearGradient></defs>
+<rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+<path d="M1010 0v340M1080 0v340M1150 0v340M1220 0v340M920 65h360M920 135h360M920 205h360M920 275h360" stroke="#255461" opacity=".32"/>
+<rect x="55" y="38" width="44" height="5" rx="2.5" fill="#61D9C3"/>
+<text x="55" y="112" fill="#FFFFFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="56" font-weight="700">Gerald Pascual</text>
+<text x="58" y="161" fill="#DBE8EC" font-family="DejaVu Sans,Arial,sans-serif" font-size="27">Desarrollador de Software Junior</text>
+<g font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="600">
+<rect x="56" y="197" width="81" height="41" rx="8" fill="#123E4C" stroke="#3A7C83"/><text x="81" y="224" fill="#88EAD8">C#</text>
+<rect x="149" y="197" width="205" height="41" rx="8" fill="#123E4C" stroke="#3A7C83"/><text x="170" y="224" fill="#88EAD8">ASP.NET Core</text>
+<rect x="366" y="197" width="165" height="41" rx="8" fill="#123E4C" stroke="#3A7C83"/><text x="385" y="224" fill="#88EAD8">SQL Server</text>
+</g>
+<text x="58" y="292" fill="#9DBBC6" font-family="DejaVu Sans,Arial,sans-serif" font-size="18">ITLA · República Dominicana · En búsqueda de empleo o pasantía</text>
+<rect x="838" y="58" width="383" height="224" rx="13" fill="#061925" stroke="#39717C"/>
+<circle cx="862" cy="81" r="5" fill="#3D6976"/><circle cx="879" cy="81" r="5" fill="#3D6976"/><circle cx="896" cy="81" r="5" fill="#61D9C3"/>
+<path d="M838 101h383" stroke="#254E5D"/>
+<g font-family="DejaVu Sans Mono,monospace" font-size="19">
+<text x="862" y="140" fill="#61D9C3">const perfil = {</text>
+<text x="878" y="177" fill="#DCEAF0">  enfoque: ".NET",</text>
+<text x="878" y="214" fill="#DCEAF0">  etapa: "Junior"</text>
+<text x="862" y="251" fill="#61D9C3">};</text>
+</g></svg>
