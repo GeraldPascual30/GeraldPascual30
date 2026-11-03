@@ -6,9 +6,13 @@
   <a href="https://github.com/SmartRestaurant-ITLA/SmartRestaurant/pull/1"><strong>Mi contribución en equipo</strong></a>
 </p>
 
+<img align="right" src="assets/gerald-pascual.jpeg" alt="Foto de Gerald Pascual" width="110" />
+
 Soy estudiante de **Desarrollo de Software en el ITLA**, en República Dominicana. Me enfoco en **C#, ASP.NET Core y SQL Server** y busco mi primera oportunidad como **desarrollador junior o pasante**.
 
 Aquí puedes revisar código, instrucciones de ejecución y el alcance de mis proyectos académicos.
+
+<br clear="right" />
 
 ## Tecnologías con las que practico
 
