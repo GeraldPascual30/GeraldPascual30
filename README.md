@@ -10,8 +10,6 @@
 
 ## Sobre mí
 
-<img align="right" src="assets/gerald-pascual.jpeg" alt="Gerald Pascual" width="138" />
-
 Soy **Gerald Pascual**, estudiante de Desarrollo de Software en el **ITLA**, en República Dominicana. Mi enfoque principal es **C#, ASP.NET Core y SQL Server**. Busco mi primera oportunidad como **desarrollador junior o pasante**.
 
 En mis proyectos académicos he trabajado con aplicaciones de escritorio, interfaces web y consumo de APIs. Puedo apoyar en:
@@ -19,8 +17,6 @@ En mis proyectos académicos he trabajado con aplicaciones de escritorio, interf
 - **Interfaces y formularios:** pantallas, validaciones y presentación de datos.
 - **Datos e integración:** consultas SQL, persistencia con Entity Framework Core y consumo de APIs HTTP/JSON.
 - **Calidad y colaboración:** pruebas de interfaz, documentación y trabajo con Git y pull requests.
-
-<br clear="right" />
 
 ## Proyectos seleccionados
 
